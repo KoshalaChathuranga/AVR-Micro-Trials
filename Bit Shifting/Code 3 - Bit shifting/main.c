@@ -1,5 +1,5 @@
 /*
- * code 2 Digital IO.c
+ * code 3 - Bit shifting.c
  *
  * Created: 4/2/2024 4:34:19 PM
  * Author : kosala
